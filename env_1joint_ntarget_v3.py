@@ -1,3 +1,6 @@
+# COBAAAA NGEDIT DARI GITHUBBBBBB
+
+
 import gym
 import time
 import numpy as np
